@@ -1,26 +1,35 @@
 body {
-    color: #1c1c20;
+    color: #202020;
     font-family: 'Oxygen', sans-serif;
 }
 
 .navbar {
     border: 0;
     border-radius: 0;
+    background-color: #202020;
 }
 
 .navbar-default .navbar-brand{
     color: #1c1c20;
 }
 
-h2 {
-    margin-top: 20px;
+.text-center {
+    color: red;
+    margin-top: 40px;
+}
+
+.text-center1{
+    color: #18181b;
 }
 
 section {
-    border: 1px solid #000;
+    border: 1px solid red;
     margin-top: 7%;
     margin-bottom: 3%;
     padding: 5%;
-    background-color: rgba(255, 0, 0, .7);
+    background-color: rgb(160, 158, 158);
     
+}
+h3{
+    text-align: center;
 }
